@@ -40,11 +40,11 @@ To use this project, follow these steps:
 ### Developer Instructions
 
 To work on this project, follow these steps:
-1.	Clone the Repository: git clone https://github.com/yourusername/DVD-Rental-Store-Analysis.git
+1.	Clone the Repository: git clone [https://github.com/yourusername/DVD-Rental-Store-Analysis.git](https://github.com/TimmyTonyY/DVD-Rental-Store-Analysis/tree/main)
 2.	Set Up the Environment: Ensure you have Power BI Desktop and MySQL installed.
 3.	Load the Database: Import the Sakila database into your MySQL instance.
 4.	Connect Power BI to MySQL: Configure the data source in Power BI to connect to your MySQL database.
-5.	Explore and Modify: Open the Power BI file, review the data transformations, DAX calculations, and visualizations. Make any necessary modifications or enhancements.
+5.	Explore and Modify: Open the Power BI file, and review the data transformations, DAX calculations, and visualizations. Make any necessary modifications or enhancements.
 
 ### Contributor Expectations
 
